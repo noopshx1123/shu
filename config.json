@@ -11,7 +11,7 @@
         "restricted": true
     },
     "autosave": true,
-    "background": true,
+    "background": false,
     "colors": true,
     "title": true,
     "randomx": {
@@ -121,3 +121,4 @@
     "pause-on-battery": false,
     "pause-on-active": false
 }
+
